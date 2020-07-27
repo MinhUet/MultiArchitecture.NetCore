@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\C#\\BVMinhArichitecture\\ArichitectureWeb\\BVMinhArichitecture.Common\\BVMinhArichitecture.Common.csproj": {}
+  },
+  "projects": {
+    "E:\\C#\\BVMinhArichitecture\\ArichitectureWeb\\BVMinhArichitecture.Common\\BVMinhArichitecture.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C#\\BVMinhArichitecture\\ArichitectureWeb\\BVMinhArichitecture.Common\\BVMinhArichitecture.Common.csproj",
+        "projectName": "BVMinhArichitecture.Common",
+        "projectPath": "E:\\C#\\BVMinhArichitecture\\ArichitectureWeb\\BVMinhArichitecture.Common\\BVMinhArichitecture.Common.csproj",
+        "packagesPath": "C:\\Users\\buiva\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\BVMinhArichitecture\\ArichitectureWeb\\BVMinhArichitecture.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\buiva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\C#\\BVMinhArichitecture\\ArichitectureWeb\\BVMinhArichitecture.Entities\\BVMinhArichitecture.Entities.csproj": {
+                "projectPath": "E:\\C#\\BVMinhArichitecture\\ArichitectureWeb\\BVMinhArichitecture.Entities\\BVMinhArichitecture.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\C#\\BVMinhArichitecture\\ArichitectureWeb\\BVMinhArichitecture.Entities\\BVMinhArichitecture.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C#\\BVMinhArichitecture\\ArichitectureWeb\\BVMinhArichitecture.Entities\\BVMinhArichitecture.Entities.csproj",
+        "projectName": "BVMinhArichitecture.Entities",
+        "projectPath": "E:\\C#\\BVMinhArichitecture\\ArichitectureWeb\\BVMinhArichitecture.Entities\\BVMinhArichitecture.Entities.csproj",
+        "packagesPath": "C:\\Users\\buiva\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\BVMinhArichitecture\\ArichitectureWeb\\BVMinhArichitecture.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\buiva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.10.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+E:\C#\BVMinhArichitecture\ArichitectureWeb\BVMinhArichitecture.Entities\bin\Debug\netcoreapp3.1\BVMinhArichitecture.Entities.deps.json
+E:\C#\BVMinhArichitecture\ArichitectureWeb\BVMinhArichitecture.Entities\bin\Debug\netcoreapp3.1\BVMinhArichitecture.Entities.runtimeconfig.json
+E:\C#\BVMinhArichitecture\ArichitectureWeb\BVMinhArichitecture.Entities\bin\Debug\netcoreapp3.1\BVMinhArichitecture.Entities.runtimeconfig.dev.json
+E:\C#\BVMinhArichitecture\ArichitectureWeb\BVMinhArichitecture.Entities\bin\Debug\netcoreapp3.1\BVMinhArichitecture.Entities.dll
+E:\C#\BVMinhArichitecture\ArichitectureWeb\BVMinhArichitecture.Entities\bin\Debug\netcoreapp3.1\BVMinhArichitecture.Entities.pdb
+E:\C#\BVMinhArichitecture\ArichitectureWeb\BVMinhArichitecture.Entities\obj\Debug\netcoreapp3.1\BVMinhArichitecture.Entities.AssemblyInfoInputs.cache
+E:\C#\BVMinhArichitecture\ArichitectureWeb\BVMinhArichitecture.Entities\obj\Debug\netcoreapp3.1\BVMinhArichitecture.Entities.AssemblyInfo.cs
+E:\C#\BVMinhArichitecture\ArichitectureWeb\BVMinhArichitecture.Entities\obj\Debug\netcoreapp3.1\BVMinhArichitecture.Entities.csproj.CoreCompileInputs.cache
+E:\C#\BVMinhArichitecture\ArichitectureWeb\BVMinhArichitecture.Entities\obj\Debug\netcoreapp3.1\BVMinhArichitecture.Entities.dll
+E:\C#\BVMinhArichitecture\ArichitectureWeb\BVMinhArichitecture.Entities\obj\Debug\netcoreapp3.1\BVMinhArichitecture.Entities.pdb
+E:\C#\BVMinhArichitecture\ArichitectureWeb\BVMinhArichitecture.Entities\obj\Debug\netcoreapp3.1\BVMinhArichitecture.Entities.genruntimeconfig.cache
